@@ -18,6 +18,14 @@
 #include <iostream>
 #include <vector>
 
+struct increment
+{
+  void operator()(int& x) const
+  {
+    ++x;
+  }
+};
+
 int main()
 {
   std::vector<int> x;

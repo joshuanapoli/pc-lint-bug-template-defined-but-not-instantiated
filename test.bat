@@ -1,1 +1,2 @@
-C:\lint\lint-nt.exe -i"C:\Program Files\Microsoft SDKs\Windows\v6.1\Include" -i"C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include" -i"$(VCInstallDir)\include" -i"c:\lint" std.lnt env-vc9.lnt main.cpp
+C:\lint\lint-nt.exe -i"C:\Program Files\Microsoft SDKs\Windows\v6.1\Include" -i"C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include" -i"$(VCInstallDir)\include" -i"c:\lint" std.lnt env-vc9.lnt +e1714 main1714.cpp
+C:\lint\lint-nt.exe -i"C:\Program Files\Microsoft SDKs\Windows\v6.1\Include" -i"C:\Program Files (x86)\Microsoft Visual Studio 9.0\VC\include" -i"$(VCInstallDir)\include" -i"c:\lint" std.lnt env-vc9.lnt +e1795 main1795.cpp
